@@ -1,0 +1,15 @@
+title: Thileepan Sekaran.  # Add a space after the period
+
+logo: 1.png # Use a relative path to logo image 
+
+description: Bioinformatics and Genomics. # Fix hyphenation 
+
+show_downloads: true # Fix spelling
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+
+email: thileepan.sekaran@gmail.com # Allow visitors to contact you
