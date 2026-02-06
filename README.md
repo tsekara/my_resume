@@ -1,11 +1,11 @@
 # Bioinformatician and Genomics Scientists
-### _Current Position - Senior Bioinformatics - EMBL_ 
+### _Current Position - Senior Bioinformatician - EMBL_ 
 
 # THILEEPAN SEKARAN
 
 **Hentze Group, EMBL**  
 Meyerhofstrasse 1, 69117 Heidelberg, Germany  
-Email: thileepan.sekaran@embl.de
+Email: thileepan.sekaran@gmail.com
 
 ---
 
@@ -21,7 +21,7 @@ Bioinformatics Scientist with expertise in multi-omics data integration and comp
 **EMBL, Heidelberg, Germany**  
 *October 2018 – Present*
 
-- Developing workflows for multi-omics data integration
+- Developing workflows and analysing sequenecing data for multi-omics data integration
 
 ### Doctoral Student
 **Max Planck Institute for Molecular Biomedicine, Muenster, Germany**  
@@ -68,32 +68,42 @@ Bioinformatics Scientist with expertise in multi-omics data integration and comp
 ## Technical Proficiency
 
 **Operating Systems**  
-Linux, Windows
+Linux, OS X, Windows
 
 **Programming Languages**  
 R/Bioconductor, GIT, Java, C#, ASP.NET (2.0), MySQL
 
 **Bioinformatics Applications**  
-RNA-seq, Ribo-seq, CLIP-seq, SLAM-seq, Microarrays
+RNA-seq, Ribo-seq, CLIP-seq, Proteomics, SLAM-seq, Microarrays
 
 **Bioinformatics Tools**  
-Trinity-suite, Snakemake, Bedtools, STAR, DESeq2, DEWSeq
+Snakemake, Nextflow, Bedtools, STAR, DESeq2, DEWSeq
 
 ---
 
 ## Publications
 
-1. Riechert Eva, Stein Frank, Schwarzl Thomas, **Sekaran Thileepan**, et al. (2020). Identification of Dynamic RNA-Binding Proteins Uncovers a Cpeb4-Controlled Regulatory Cascade During Pathological Cell Growth of Cardiomyocytes. *Cell Reports* (Under review)
+1. Zhou Y, Ray PS, Zhu J, Stein F, Rettel M, **Sekaran T**, et al. (2024). Systematic analysis of RNA-binding proteins identifies targetable therapeutic vulnerabilities in osteosarcoma. *Nature Communications*
 
-2. Susana Fraguas, Sheila Carcel, Coral Vivancos, et al., **Thileepan Sekaran**, et al. (2020). Planarian CREB-binding protein (CBP) gene family regulates stem cell maintenance and differentiation. *BioRxiv*
+2. Noble M, Chatterjee A, **Sekaran T**, et al. (2024). Cytosolic RNA binding of the mitochondrial TCA cycle enzyme malate dehydrogenase. *RNA*
 
-3. Ina Huppertz, Joel I. Perez-Perri, Panagiotis Mantas, **Thileepan Sekaran**, et al. (2020). RNA regulates Glycolysis and Embryonic Stem Cell Differentiation via Enolase 1. *BioRxiv*
+3. Sahadevan S, **Sekaran T**, et al.(2023). htseq-clip: a toolset for the preprocessing of eCLIP/iCLIP datasets. *Bioinformatics* 
 
-4. Wörsdöfer P, Bosen F, Gebhardt M, et al., **Sekaran T**, et al. (2016). Abrogation of gap junctional communication in ES cells results in a disruption of primitive endoderm formation in embryoid bodies. *Stem Cells Ther* 35(4):859.
+4. Varma E, Burghaus J, Schwarzl T, **Sekaran T**, et al. (2023). Translational control of Ybx1 expression regulates cardiac function in response to pressure overload in vivo. *Basic Research in Cadiology*
 
-5. Kadari A, Lu M, Li M, **Sekaran T**, et al. (2014). Excision of a viral reprogramming cassette by Cre protein transduction: An efficient protocol for transgene-free human iPS cell derivation. *Stem Cell Res. Ther* 5(2):47.
+5. Sahadevan S, **Sekaran T**, Schwarzl T. (2022) A Pipeline for Analyzing eCLIP and iCLIP Data with Htseq-clip and DEWSeq. *Methods in Molecular Biology*
 
-6. **Sekaran T**, Thummer RP, Edenhofer F (2013). Exploring the Neural Reprogrammome using Bioinformatics Approaches. *J Stem Cell Res Ther* 3:146.
+6. Riechert E, Kmietczyk V, Stein F, Schwarzl T, **Sekaran T**, et al. (2020). Identification of Dynamic RNA-Binding Proteins Uncovers a Cpeb4-Controlled Regulatory Cascade During Pathological Cell Growth of Cardiomyocytes. *Cell Reports* 
+
+7. Fraguas S, Cárcel S, Vivancos C, Molina MD, Ginés J, Mazariegos J, **Sekaran T**, et al. (2020). Planarian CREB-binding protein (CBP) gene family regulates stem cell maintenance and differentiation. *BioRxiv*
+
+8. Huppertz I, Perez-Perri JI, Mantas P, **Sekaran T**, et al. (2020). RNA regulates Glycolysis and Embryonic Stem Cell Differentiation via Enolase 1. *BioRxiv*
+
+9. Wörsdöfer P, Bosen F, Gebhardt M, et al., **Sekaran T**, et al. (2016). Abrogation of gap junctional communication in ES cells results in a disruption of primitive endoderm formation in embryoid bodies. *Stem Cells Ther* 35(4):859.
+
+10. Kadari A, Lu M, Li M, **Sekaran T**, et al. (2014). Excision of a viral reprogramming cassette by Cre protein transduction: An efficient protocol for transgene-free human iPS cell derivation. *Stem Cell Res. Ther* 5(2):47.
+
+11. **Sekaran T**, Thummer RP, Edenhofer F (2013). Exploring the Neural Reprogrammome using Bioinformatics Approaches. *J Stem Cell Res Ther* 3:146.
 
 ---
 
